@@ -1,6 +1,0 @@
-/uploads/*
-/node_modules
-.env
-/.data/*
-app/.data/*
-app/forms/file/*
